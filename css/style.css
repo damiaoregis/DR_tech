@@ -1,0 +1,30 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.quem-somos {
+   background-color:#04fae5;
+   color: rgb(8, 8, 8);
+}
+
+.margens {
+     padding-bottom: 50px;
+     padding-top: 50px;
+}
+
+h3 {
+    margin: 30px; 
+}
+
+.parceiros {
+    background-color: #6DD011;
+}
+
+.servicos {
+    background-color: #d0bd11;
+}
+
+.bg-footer {
+    background-color: black;
+    color:honeydew;
+}
